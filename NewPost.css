@@ -1,0 +1,9 @@
+.NewPostBar {
+    display: flex;
+    background-color: rgb(86, 55, 91);
+  }
+  .NewPostBar {
+    text-align: left;
+    font-weight: bold;
+    display:block;
+  }
